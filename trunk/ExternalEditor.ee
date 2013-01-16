@@ -1,0 +1,13 @@
+﻿;; Opera
+exe=opera
+selectall=^a
+copy=^c
+paste=^v
+gohome=^{HOME}
+;;
+;; Mozilla Firefox
+exe=firefox
+selectall=^a
+copy=^c
+paste=^v
+gohome=^{HOME}
